@@ -1,5 +1,25 @@
-## Hi there 👋
+# ¡Hola! 👋
 
+Soy Darius, un desarrollador apasionado por la tecnología, la programación y el desarrollo de aplicaciones web. 🚀
+
+## Acerca de mí
+- 🌱 Actualmente estoy estudiando informática en grado superior.
+- 💻 Interesado en desarrollo Fullstack (aunque prefiero Backend 🙃) y videojuegos.
+- 📚 Me encanta aprender sobre nuevas tecnologías y frameworks.
+
+## Lenguajes y herramientas
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP (Symfony), Java
+- **Bases de datos**: MySQL, PostgreSQL, Firebase
+- **Otros**: Docker, Git, Linux
+
+## Proyectos destacados
+- [Clon de Instagram](https://github.com/zeusgd19/synfony-instagram)
+- [Juego tipo Snake](https://github.com/zeusgd19/synfony-spotify)
+
+
+## Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=zeusgd19&show_icons=true&theme=radical)
 <!--
 **zeusgd19/zeusgd19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
