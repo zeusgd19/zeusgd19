@@ -14,8 +14,8 @@ Soy Darius, un desarrollador apasionado por la tecnología, la programación y e
 - **Otros**: Docker, Git, Linux
 
 ## Proyectos destacados
-- [Clon de Instagram](https://github.com/zeusgd19/synfony-instagram)
-- [Clon de Spotify](https://github.com/zeusgd19/synfony-spotify)
+- [Clon de Instagram](https://github.com/zeusgd19/symfony-instagram)
+- [Clon de Spotify](https://github.com/zeusgd19/symfony-spotify)
 
 
 ## Estadísticas
