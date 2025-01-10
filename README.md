@@ -23,7 +23,7 @@ Soy Darius, un desarrollador apasionado por la tecnología, la programación y e
 
 
 ## Lenguages más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeusgd19&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeusgd19&hide_progress=false)
 
 <!--
 **zeusgd19/zeusgd19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
